@@ -1,0 +1,20 @@
+---
+
+## 🔁 How to Upload to GitHub
+
+### A. Create a New Repository
+1. Go to: [https://github.com/new](https://github.com/new)
+2. Name: `waste2wealthAI-lite`
+3. Click **Create Repository**
+
+---
+
+### B. Upload Files
+1. Unzip the downloaded file
+2. Go to the new GitHub repo
+3. Click **"Add file" → "Upload files"**
+4. Drag and drop:
+   - `Waste2Wealth_ai_app.py`
+   - `requirements.txt`
+   - `README.md`
+5. Write a **commit message**, e.g.:
